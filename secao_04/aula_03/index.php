@@ -12,10 +12,6 @@ echo "<p><b>Ano:</b> ". $arrFilme->ano ."</p>";
 echo "<p><b>Genero:</b> ". $arrFilme->genero ."</p>";
 echo "<p><b>Canais:</b> </p>";
 
-
-//pra mostrar o array precisa de um FOR
-//echo "<p><b>Canais:</b> ". $arrFilme->canais ."</p>";
-
 for ($i=0; $i < count($arrFilme->canais); $i++) { 
     echo "<p>". $arrFilme->canais[$i] ."</p>";
 }
