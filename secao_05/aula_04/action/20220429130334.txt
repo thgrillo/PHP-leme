@@ -1,0 +1,1 @@
+CEP:20020030|Logradouro:Praça Academia|Complemento:|Bairro:Centro|Localidade:Rio de Janeiro|UF:RJ|Ibge:3304557|Gia:|DDD:21|Siafi:6001
